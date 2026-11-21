@@ -1,6 +1,6 @@
 # Black Track Group
 
-Black Track Group is a **creative media, entertainment and marketing group** based in Moodbidri, Dakshina Kannada, India. Through **Black Track Studio**, we offer full-stack web development, mobile app development, cloud deployment and DevOps, as well as commercial media, branding and marketing services. Our primary market is Karnataka, including Mangaluru (Mangalore), Udupi and Bengaluru (Bangalore). We take remote software briefs across India and welcome enquiries from international teams.
+Black Track Group is a **creative media, entertainment and marketing group** based in Mangalore (Mangaluru), Karnataka, India. Through **Black Track Studio**, we offer full-stack web development, mobile app development, cloud deployment and DevOps, as well as commercial media, branding and marketing services. We serve clients in Mangalore, Udupi, Bengaluru (Bangalore) and across Karnataka. We take remote software briefs across India and welcome enquiries from international teams.
 
 [Explore web development and concept demos](https://web.blacktrack.in/) · [View Studio work](https://studio.blacktrack.in/) · [Contact Black Track Group](https://blacktrack.in/contact/)
 
